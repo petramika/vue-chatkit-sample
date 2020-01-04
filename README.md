@@ -1,5 +1,7 @@
 # vue-chatkit
 
+Integration API from ChatKit with Vue 
+
 ## Project setup
 ```
 npm install
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Project extracted and updated from [Vue Real Time App](https://www.sitepoint.com/pusher-vue-real-time-chat-app/)
